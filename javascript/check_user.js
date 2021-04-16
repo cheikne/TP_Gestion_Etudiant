@@ -2,7 +2,7 @@
 // var mdp =
 var value_user;
 function check_user() {
-  callback = function(response) {
+  var callback = function(response) {
 	 value_user = response;
 	// console.log("val_ser "+value_ser);
  	};
