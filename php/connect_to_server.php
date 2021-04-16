@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "salif";
-$password = "WorldCanBeBetter";
+$username = "root";
+$password = "";
 $dbname = "TP-cours-php";
 
 // Create connection
